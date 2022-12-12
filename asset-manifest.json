@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.427070e0.css",
+    "main.js": "/portfolio/static/js/main.0848580b.js",
+    "static/media/me.png": "/portfolio/static/media/me.cf487a04c391c23cb204.png",
+    "static/media/me1.png": "/portfolio/static/media/me1.898462edb4fd2325c90b.png",
+    "static/media/AbhishekResume.pdf": "/portfolio/static/media/AbhishekResume.453778073a9ad0b45ebd.pdf",
+    "index.html": "/portfolio/index.html",
+    "main.427070e0.css.map": "/portfolio/static/css/main.427070e0.css.map",
+    "main.0848580b.js.map": "/portfolio/static/js/main.0848580b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.427070e0.css",
+    "static/js/main.0848580b.js"
+  ]
+}
